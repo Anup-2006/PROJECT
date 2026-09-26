@@ -83,15 +83,23 @@ To repeat this testing yourself, run the app and try the inputs above at each me
 
 **Adding a reminder (with an invalid time first) and viewing the saved list:**
 
-![Add and view reminders](screenshots/shot1_add_view.png)
+<img width="606" height="676" alt="shot1_add_view" src="https://github.com/user-attachments/assets/eb41167f-4693-4f24-9cb4-28d74be2f349" />
+
 
 **Removing a reminder — an invalid number, then a non-numeric entry:**
 
-![Remove reminder boundary cases](screenshots/shot2_remove_boundaries.png)
+<img width="504" height="722" alt="shot2_remove_boundaries" src="https://github.com/user-attachments/assets/00214ea9-ae18-4a82-97ea-d90cb8e60c47" />
+
 
 **A live reminder alert firing, then stopped with Ctrl+C:**
 
-![Live reminder alert](screenshots/shot3_live_alert.png)
+
+<img width="678" height="423" alt="shot3_live_alert" src="https://github.com/user-attachments/assets/dcb644da-c718-4dd1-9d9b-d0ec6585e3ec" />
+
 
 ## Author
-_(Your name / registration number)_
+_Anup Kumar Jena_
+
+_Integrated M.Tech BioInformatics_
+
+_26MIB10011_
